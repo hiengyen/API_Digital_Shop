@@ -647,7 +647,7 @@ fast-copy@^3.0.0:
 
 fast-redact@^3.1.1:
   version "3.5.0"
-  resolved "https://registry.npmjs.org/fast-redact/-/fast-redact-3.5.0.tgz"
+  resolved "https://registry.yarnpkg.com/fast-redact/-/fast-redact-3.5.0.tgz#e9ea02f7e57d0cd8438180083e93077e496285e4"
   integrity sha512-dwsoQlS7h9hMeYUq1W++23NDcBLV4KqONnITDV9DjfS3q1SgDGVrBdvvTLUotWtPSD7asWDV9/CmsZPy8Hf70A==
 
 fast-safe-stringify@^2.1.1:
@@ -1242,7 +1242,7 @@ pino-std-serializers@^7.0.0:
 
 pino@*, pino@^9.1.0:
   version "9.1.0"
-  resolved "https://registry.npmjs.org/pino/-/pino-9.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/pino/-/pino-9.1.0.tgz#f734617ad096568cc905e6a227266dbd6100c3fb"
   integrity sha512-qUcgfrlyOtjwhNLdbhoL7NR4NkHjzykAPw0V2QLFbvu/zss29h4NkRnibyFzBrNCbzCOY3WZ9hhKSwfOkNggYA==
   dependencies:
     atomic-sleep "^1.0.0"
@@ -1377,7 +1377,7 @@ safe-buffer@5.2.1, safe-buffer@^5.0.1, safe-buffer@~5.2.0:
 
 safe-stable-stringify@^2.3.1:
   version "2.4.3"
-  resolved "https://registry.npmjs.org/safe-stable-stringify/-/safe-stable-stringify-2.4.3.tgz"
+  resolved "https://registry.yarnpkg.com/safe-stable-stringify/-/safe-stable-stringify-2.4.3.tgz#138c84b6f6edb3db5f8ef3ef7115b8f55ccbf886"
   integrity sha512-e2bDA2WJT0wxseVd4lsDP4+3ONX6HpMXQa1ZhFQ7SU+GjvORCmShbCMltrtIDfkYhVHrOcPtj+KhmDBdPdZD1g==
 
 "safer-buffer@>= 2.1.2 < 3":
