@@ -9,7 +9,7 @@ export async function createUser(input: UserInput) {
     throw new Error(e)
   }
 }
-
+// validate password when login
 export async function validatePassword({
   email,
   password,
